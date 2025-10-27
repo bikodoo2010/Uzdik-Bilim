@@ -1,4 +1,9 @@
-# Uzdik-Bilim
-| Раздел | python | c++ |
-|---|---------|-------|-------------------|
-| Binary Search | from Bisect import bisect_left,bisect_right,insort_left,insort_right | lower_bound,upper bound |
+#1. Екілік іздеу
+#2. Префикс - Суффикс
+#3. Екі көрсеткіш
+#4. Үйме - Heapq
+#5. ДП - Рекурсия
+#6. ДП - Табуляция-Кестелік
+#7. Бит-маска
+#8. Графтар теориясы
+#9. 2D массив - BFS-DFS
